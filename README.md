@@ -8,6 +8,7 @@
 
 | 日期 | 文件 | 说明 |
 |------|------|------|
+| 2026-11-11 | [digests/2026-11-11.md](digests/2026-11-11.md) | 过去约一天信号（Asia/Shanghai；中等偏强） |
 | 2026-11-01 | [digests/2026-11-01.md](digests/2026-11-01.md) | 第一轮信号整理（Asia/Shanghai） |
 
 目录说明见 [digests/README.md](digests/README.md)。
