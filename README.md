@@ -9,5 +9,6 @@
 | 日期 | 文件 | 说明 |
 |------|------|------|
 | 2026-11-01 | [digests/2026-11-01.md](digests/2026-11-01.md) | 第一轮信号整理（Asia/Shanghai） |
+| 2026-11-16 | [digests/2026-11-16.md](digests/2026-11-16.md) | TrustMRR 近 30 天收入分层；$100K 黑客松官网 3,290 人、11-16 开赛；Greg 服务报价；牙科官方稿空窗（Asia/Shanghai） |
 
 目录说明见 [digests/README.md](digests/README.md)。
