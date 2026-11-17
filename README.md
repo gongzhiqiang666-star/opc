@@ -8,6 +8,7 @@
 
 | 日期 | 文件 | 说明 |
 |------|------|------|
+| 2026-11-17 | [digests/2026-11-17.md](digests/2026-11-17.md) | $100K 利润黑客松开赛（官网 3,981 人）+ SignuDoc / 开源 skill 打法 + Dan Koe 心态帖（Asia/Shanghai） |
 | 2026-11-01 | [digests/2026-11-01.md](digests/2026-11-01.md) | 第一轮信号整理（Asia/Shanghai） |
 
 目录说明见 [digests/README.md](digests/README.md)。
